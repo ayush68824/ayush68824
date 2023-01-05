@@ -6,20 +6,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush68824" alt="ayush68824" /></a> </p>
 
-- 🔭 I’m currently working on *Stock Forecasting using ML*
+- 🔭 I’m currently working on **Stock Forecasting using ML**
 
-- 🌱 I’m currently learning *IOT*
+- 🌱 I’m currently learning **IOT**
 
-- 📫 How to reach me *ayush.kumar2021@vitbhopal.ac.in*
+- 📫 How to reach me **ayush.kumar2021@vitbhopal.ac.in**
 
-- ⚡ Fun fact *I think I am funny*
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayushku02842506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushku02842506" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ayush-kumar-05672521b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayush-kumar-05672521b" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayush kumar 21bhi10025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush kumar 21bhi10025" height="30" width="40" /></a>
-<a href="https://fb.com/ayushkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushkumar" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100012276041930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012276041930" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushkumar68_a.g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushkumar68_a.g" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayushkumar68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushkumar68" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ayush_kumar2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayush_kumar2021" height="30" width="40" /></a>
